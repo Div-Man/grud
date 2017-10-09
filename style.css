@@ -1,0 +1,16 @@
+body {
+	padding: 10px;
+}
+
+ul, li {
+	list-style: none;
+	padding: 0;
+}
+
+
+.content {
+	margin: 0 auto;
+	width: 900px;
+	border: 1px solid;
+	padding: 10px;
+}
